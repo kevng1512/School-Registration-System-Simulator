@@ -1,4 +1,3 @@
-//Name: Nguyen, Vu Kha - 500977615
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
