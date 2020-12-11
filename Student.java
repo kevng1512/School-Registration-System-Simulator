@@ -1,4 +1,3 @@
-//Name: Nguyen, Vu Kha - 500977615
 import java.util.ArrayList;
 
 // Make class Student implement the Comparable interface
